@@ -1,0 +1,22 @@
+body{
+    font-family: ui-sans-serif, system-ui, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji;
+    background-color: gray;
+    margin: 0%;
+}
+.div1{
+    
+    background-color: aqua;
+    text-align: center;
+}
+.div2{
+    background-color: greenyellow;
+    text-align: end;
+}
+.div3{
+    background-color: greenyellow;
+    text-align: end;
+}
+ul{
+    text-decoration:line-through;
+    color: #fff;
+}
